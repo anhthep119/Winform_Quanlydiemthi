@@ -1,0 +1,11 @@
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\bin\Debug\Ex11_QLDiemThi.exe.config
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\bin\Debug\Ex11_QLDiemThi.exe
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\bin\Debug\Ex11_QLDiemThi.pdb
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.csproj.AssemblyReference.cache
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.csproj.SuggestedBindingRedirects.cache
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.Form1.resources
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.Properties.Resources.resources
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.csproj.GenerateResource.cache
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.csproj.CoreCompileInputs.cache
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.exe
+E:\He_Windows\Ex11_QLDiemThi\Ex11_QLDiemThi\obj\Debug\Ex11_QLDiemThi.pdb
